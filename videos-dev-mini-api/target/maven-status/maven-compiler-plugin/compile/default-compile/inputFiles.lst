@@ -1,0 +1,13 @@
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/controller/UserController.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/controller/VideoController.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/ZKCuratorClient.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/Application.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/controller/HelloWorldController.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/Swagger2.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/WarStartApplication.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/controller/RegistLoginController.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/controller/BgmController.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/controller/BasicController.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/controller/interceptor/MiniInterceptor.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/WebMvcConfig.java
+/usr/local/project/videosdev/videos-dev-mini-api/src/main/java/com/aaron/config/ResourceConfig.java

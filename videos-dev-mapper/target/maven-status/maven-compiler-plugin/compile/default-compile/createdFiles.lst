@@ -1,0 +1,10 @@
+com/aaron/mapper/UsersReportMapper.class
+com/aaron/mapper/UsersMapper.class
+com/aaron/mapper/CommentsMapper.class
+com/aaron/mapper/SearchRecordsMapper.class
+com/aaron/mapper/CommentsMapperCustom.class
+com/aaron/mapper/BgmMapper.class
+com/aaron/mapper/UsersLikeVideosMapper.class
+com/aaron/mapper/VideosMapperCustom.class
+com/aaron/mapper/VideosMapper.class
+com/aaron/mapper/UsersFansMapper.class
